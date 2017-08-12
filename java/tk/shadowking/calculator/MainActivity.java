@@ -5,11 +5,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-//import android.widget.TextView;
 import java.util.Stack;
-
-//import static tk.shadowking.calculator.R.id;
-//import static tk.shadowking.calculator.R.id;
 
 public class MainActivity extends AppCompatActivity {
 
